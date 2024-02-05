@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.list-item {
+  margin-right: 15px;
+}
+.filter-button {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+.active-filter {
+  border: 1px solid #0284c7;
+  border-radius: 8px;
+  padding: 4px 16px;
+}

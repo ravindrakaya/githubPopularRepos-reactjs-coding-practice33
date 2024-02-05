@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.app-heading {
+  color: #0f172a;
+  font-family: 'Lobster';
+}
+.list-container {
+  list-style-type: none;
+  font-family: 'Roboto';
+  display: flex;
+}
+.failure-view-img {
+  width: 800px;
+  height: 500px;
+}
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-view-heading {
+  color: #1e293b;
+  font-family: 'bree serif';
+}
+.repos-list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
